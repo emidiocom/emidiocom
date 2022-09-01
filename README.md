@@ -2,7 +2,7 @@
 
 Sou Emídio Neto, Profissional independente de Tecnologia e Serviços da informação.
 
-- 🔭 Moro em Fortaleça do Ceará. 
+- 🔭 Moro em Fortaleza do Ceará. 
 - 🌱 Formação em Tecnico em Informatica pelo Cotemig
 - 👯 Tecnologo em Redes de Computadores
 
