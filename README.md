@@ -12,6 +12,7 @@ Sou Emídio Neto, Profissional independente de Tecnologia e Serviços da informa
 - ⚡ Fun fact: ...
 
 
+[![texto alternativo](https://vidadesuporte.com.br/wp-content/uploads/2022/08/Suporte_3020.jpg)]
 <!--
 **emidiocom/emidiocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
