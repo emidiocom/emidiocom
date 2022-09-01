@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://markdownlivepreview.com/
+Linguaem que ajuda a estilizar um documento.
+
+
+https://www.byjusfutureschool.com/
+
+
+
+https://linktr.ee/react.js.ceara
