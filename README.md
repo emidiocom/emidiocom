@@ -1,10 +1,11 @@
-### Olá GitHub 👋
+### Hi GitHub 👋
 
-Sou Emídio Neto, Profissional independente de Tecnologia e Serviços da informação.
+I am Emídio Neto, independent Technology Professional
 
-- 🔭 Moro em Fortaleza do Ceará. 
-- 🌱 Formação em Tecnico em Informatica pelo Cotemig
-- 👯 Tecnologo em Redes de Computadores
+- 🌎 Brazil 
+- 💻 Technologo in Computer Networks
+- 📡 https://www.emcnet.com.br
+- 🛒 https://www.magazinevoce.com.br/magazinevidabyte
 
 
 
