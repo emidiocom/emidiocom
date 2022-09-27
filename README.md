@@ -6,8 +6,9 @@ I am Emídio Neto, independent Technology Professional
 - 💻 Technologo in Computer Networks
 - 📡 https://www.emcnet.com.br
 - 🛒 https://www.magazinevoce.com.br/magazinevidabyte
-
-
+  
+  
+[<img alt="DNS6" src="https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png" align="center" style="width:50%; height:auto;" />&nbsp;](https://www.freecodecamp.org/emidiocom)
 
 [![texto alternativo](https://vidadesuporte.com.br/wp-content/uploads/2022/08/Suporte_3020.jpg)]
 <!--
