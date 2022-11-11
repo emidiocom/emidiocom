@@ -1,5 +1,5 @@
-04/10/2022 - [**Digital College**](https://digitalcollege.com.br/formacao-full-stack/) - Student Developer Full Stack - Fortaleza - CE - Brazil [<img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="25" width="25" align="right"/>&nbsp;<br/>](https://github.com/emidiocom)
-[<img alt="GIF1" src="https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif" align="center" style="width:50%; height:auto;" />&nbsp;](https://drive.google.com/file/d/1W5M2O03fydL9Lh295aLnrCEGPNrJ8h-1/view)
+11/11/2022 - [**Digital College**](https://digitalcollege.com.br/formacao-full-stack/) - Student Developer Full Stack - Fortaleza - CE - Brazil [<img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="25" width="25" align="right"/>&nbsp;<br/>](https://github.com/emidiocom)
+[<img alt="GIF1" src="https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif" align="center" style="width:50%; height:auto;" />&nbsp;](https://github.com/emidiocom)
 
 
 
@@ -14,72 +14,17 @@ I am Emídio Neto, independent Technology Professional
 - 🛒 https://www.magazinevoce.com.br/magazinevidabyte
 
 ------------
-
-
-[<img alt="DNS6" src="https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png" align="center" style="width:25%; height:auto;" />&nbsp;](https://www.freecodecamp.org/emidiocom)
+<a href = "mailto:emidio.com@gmail.com"><img id="link2" src="https://www.pngall.com/wp-content/uploads/12/Gmail-By-Google-PNG-Photo.png" target="_blank" align="center" style="width:25%" height="auto"></a>
 
 ------------
+<a href="https://www.linkedin.com/in/em%C3%ADdio-neto-03680522/" target="_blank"><img id="link2" src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" target="_blank" align="center" style="width:25%" height="auto"></a>
 
-[<img alt="GIF1" src="https://vidadesuporte.com.br/wp-content/uploads/2022/08/Suporte_3020.jpg" align="center" style="width:50%; height:auto;" />&nbsp;](https://vidadesuporte.com.br)
+------------
+<a href="https://www.freecodecamp.org/emidiocom" target="_blank"><img id="link2" src="https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png" target="_blank" align="center" style="width:25%" height="auto"></a>
 
+------------
+<a href="https://www.duolingo.com/profile/emidiocom" target="_blank"><img id="link2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Duolingo_logo_%282019%29.svg/320px-Duolingo_logo_%282019%29.svg.png" target="_blank" align="center" style="width:25%" height="auto"></a>
 
-[<img alt="GIF1" src="https://www.cutedrop.com.br/wp-content/uploads/2013/07/johnny-castaway1.jpg" align="center" style="width:50%; height:auto;" />&nbsp;](https://www.cutedrop.com.br/2013/07/relembrando-o-naufrago-mais-querido-dos-screensavers/)
-
-<p><a href="https://notepade.web.app/?abraao" target="_blank">Abraao Link de Donwloads</a></p>
-<p><a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a></p>
-<html>
-<p>Click here to view more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a>.</p>
-</html>
-
-<!--
-**emidiocom/emidiocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://markdownlivepreview.com/
-Linguaem que ajuda a estilizar um documento.
-
-
-https://www.byjusfutureschool.com/
-https://vms.drweb.com/online/
-
-
-https://linktr.ee/react.js.ceara
-
-
-
-IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO-WORLD.
-DATA DIVISION.
-    WORKING-STORAGE SECTION.
-        77 X PIC 99.
-        77 Y PIC 99.
-        77 Z PIC 99.
-PROCEDURE DIVISION.
-    SET X TO 10.
-    SET Y TO 25.
-    ADD X Y GIVING Z.
-    DISPLAY "X + Y = "Z.
-STOP RUN.
-
-
-universo narrado
-fabio akita
--->
-
-
-
-
-
-
-
+------------
+<a href="https://digitalcollege.com.br/" target="_blank"><img id="link2" alt="CSS icon" src="https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp" target="_blank" align="center" style="width:25%" height="auto"></a>
 
