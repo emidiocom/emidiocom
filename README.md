@@ -29,4 +29,5 @@ I am Emídio Neto, independent Technology Professional
 <a href="https://digitalcollege.com.br/" target="_blank"><img id="link2" alt="CSS icon" src="https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp" target="_blank" align="center" style="width:25%" height="auto"></a>
 
 ------------
+------------
 
