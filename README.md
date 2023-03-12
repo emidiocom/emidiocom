@@ -15,6 +15,7 @@ I am Emídio Neto, independent Technology Professional
 - 🛒 https://www.magazinevoce.com.br/magazinevidabyte
 
 ------------
+
 <a href = "mailto:emidio.com@gmail.com"><img id="link2" src="https://www.pngall.com/wp-content/uploads/12/Gmail-By-Google-PNG-Photo.png" target="_blank" align="center" style="width:25%" height="auto"></a>
 
 ------------
