@@ -12,6 +12,7 @@
 
 
 
+
 I am Emídio Neto, independent Technology Professional
 
 - 🌎 Brazil
